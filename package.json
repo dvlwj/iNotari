@@ -26,7 +26,7 @@
     "@nuxt/content": "^1.9.0",
     "@nuxt/typescript-runtime": "^2.0.0",
     "@nuxtjs/axios": "^5.12.4",
-    "@nuxtjs/pwa": "^3.0.2",
+    "@nuxtjs/pwa": "^3.3.3",
     "app-root-path": "^3.0.0",
     "bcrypt": "^5.0.0",
     "core-js": "^3.6.5",
